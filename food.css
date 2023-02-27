@@ -1,0 +1,157 @@
+*{
+   
+    font-family: 'Roboto', sans-serif;
+}
+
+body{
+    background-color:  #FFC3C3;
+
+}
+.card{
+height: 836px;
+width: 400px;
+left: 587px;
+top: 121px;
+border-radius: 8px;
+
+background-color: white;
+margin: auto;
+
+box-sizing: border-box;
+box-shadow: 0px 8px 24px; color: rgb(181, 177, 177);
+
+
+
+}
+.para{
+    
+    font-size: 16px;
+   font-style: normal;
+   line-height: 24px;
+   font-weight: 400px;
+   font-weight: lighter;
+   color: #333333;
+   padding-left: 40px;
+padding-right: 40px;
+}
+
+
+
+
+.icons-div{
+   display: flex;
+   gap: 12px;
+   margin-bottom: 15px;
+   padding-left: 40px;
+padding-right: 40px;
+   
+  
+  
+}
+
+.red{
+    width: 40px;
+    height: 40px;
+    top: 665px;
+    left: 627px;
+   background-color: red;
+    border: 4px  solid;color: white;
+    border-radius: 100%;
+   
+    
+   
+}
+.blue{
+    width: 40px;
+    height: 40px;
+    top: 665px;
+    left: 627px;
+   background-color: blue;
+    border: 4px  solid;color: white;
+    border-radius: 100%;
+}
+.black{
+    width: 40px;
+    height: 40px;
+    top: 665px;
+    left: 627px;
+   background-color: black;
+    border: 4px  solid;color: white;
+    border-radius: 100%;
+}
+.klavishebi{
+    display: flex;
+    flex-direction: column;
+    gap: 16px;
+    font-family: 'Roboto', sans-serif;
+    font-size: 24px;
+    margin-bottom: 40px;
+    padding-left: 40px;
+padding-right: 40px;
+
+    
+  
+}
+button{
+height: 55px;
+width: 320px;
+left: 627px;
+top: 737px;
+border-radius: 8px;
+
+
+}
+
+.one{
+    background-color:  #FBBF23;
+font-size: 24px;
+    
+}
+.two{
+    background-color: white;
+    border-color: #E7E6EB;
+    font-size: 24px;
+}
+.footer{
+color: #61A5FA;
+font-family: 'Roboto', sans-serif;
+font-size: 16px;
+line-height: 24px;
+padding-left: 40px;
+padding-right: 40px;
+text-decoration: underline;
+
+
+}
+ 
+
+
+  
+
+
+
+
+.price{
+    margin-bottom:  20px;
+  font-size: 32px;
+  font-weight: 700px; 
+  font-weight: bold;
+  padding-left: 40px;
+padding-right: 40px;
+color: #333333
+}
+
+
+.content{
+    font-size: 24px;
+    padding-left: 40px;
+padding-right: 40px;
+color: #333333;
+}
+
+.choose{
+    margin-bottom: 10px;
+    padding-left: 40px;
+padding-right: 40px;
+color: #333333;
+}
